@@ -1,0 +1,8 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+https://www.amazon.in/,100,652,259,1729,365.54,0.00%,9.76086,430.71,7.07,45184.8
+https://www.amazon.in/s?k=titan%20watches%20for%20men&i=aps&ref=nb_sb_ss_w_hit-vc-lth_titan-watches-for-men_k0_1_21&crid=3JWH30X17LRQ1&sprefix=titan%20watches%20for%20men%2Caps%2C412,100,383,182,3953,512.05,89.00%,7.81372,172.17,6.71,22563.7
+https://www.amazon.in/Titan-Karishma-Stainless-Watch-NL1639SM02-NN1639SM02/dp/B00ISNVQMW/ref=sr_1_3?crid=3JWH30X17LRQ1&dib=eyJ2IjoiMSJ9.idBQvROVC3k9YxaFZNE98MEAFoib018La8T87un930sdgDZuINBpUzGU328Vx-aXNHDS09dBdMCxsU8eSGQZQesM9_OcZlQIJKjd-xQkJcDKoGMcC637wgijrhxXLEJRov71AvDqsGeVZhAgfcDHdfZo0EaCRS639A7ZZp2qepkbtkGzv5bLPifqxf5Dd-upqWMI2Q1M38kkj1-oZrPWA250ck9IhmAOwAJeSswr0Z3Qa2Fe-D9tLRrpU8XrXhrIixkif1qA7Brnev3yGJ_X7SvPjhJrsYsxDX-gQeXIsLg.etuPxKdRFn7Qvkx1JgSJbXy1AhJDkhN6v9zyoxqpG7Y&dib_tag=se&keywords=titan+watches+for+men&nsdOptOutParam=true&qid=1725813515&sprefix=titan+watches+for+men%2Caps%2C412&sr=8-3,100,475,181,4184,772.11,0.00%,7.66812,272.08,9.88,36334.2
+https://www.amazon.in/cart/add-to-cart/ref=dp_start-bbf_1_glance,100,244,176,681,53.4,100.00%,7.64409,19.19,18.21,2570.7
+https://www.amazon.in/gp/cart/desktop/go-to-checkout.html/ref=ox_sw_proceed?tangoWeblabStatus=tango_non_prime_C&proceedToCheckout=1&oldCustomerId=A2QLTY9U9KS3CH&preInitiateCustomerId=A2QLTY9U9KS3CH,100,770,588,1767,226.37,0.00%,7.41565,177.67,19.61,24533.4
+Test,100,2526,1537,7088,1088.25,100.00%,1.58153,202.61,12.49,131186.7
+TOTAL,600,842,176,7088,984.18,48.17%,9.48917,405.23,24.99,43728.9
